@@ -1,0 +1,5 @@
+%{
+  "flow": {:hex, :flow, "0.14.2", "84687153dcd10e321a2b09b5d1db9511ed704337a553a46e8b0758fde0b7e75c", [:mix], [{:gen_stage, "~> 0.14.0", [hex: :gen_stage, repo: "hexpm", optional: false]}], "hexpm"},
+  "gen_stage": {:hex, :gen_stage, "0.14.1", "9d46723fda072d4f4bb31a102560013f7960f5d80ea44dcb96fd6304ed61e7a4", [:mix], [], "hexpm"},
+  "nanoid": {:hex, :nanoid, "1.0.1", "4f9bcecfbc0046795e1084e85b3d25da3721b36b949a672736492c5dfe901062", [:mix], [], "hexpm"},
+}
